@@ -1,0 +1,5 @@
+Yet another implementation of horizontal scroll contatiner. It is based on horizontal UITableView.
+This demo project contains some patches that make it capabl of hosting other scroll views.
+
+License : BSD
+Supports iOS versions 5.0 and higher. Uses ARC "weak" runtime features
